@@ -12,6 +12,14 @@ body{
     font-weight: 700;
     line-height: 78px;
 }
+.custom-btn{
+    background-color: #f18b46;
+    color: white;
+    border-radius: 5px;
+}
+.custom-color{
+    color: #8a47f6;
+}
 ::-webkit-scrollbar{
     width: 5px;
     height: 5px;   
